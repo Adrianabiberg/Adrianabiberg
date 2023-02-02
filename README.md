@@ -1,6 +1,6 @@
 ### Olá, eu sou a Adriana Biberg! 👋
 
-Atualmente sou desenvolvedora Full-Stack e estudante na Trybe. Estou no módulo de Ciência da Computação que é o 4º e último módulo da formação.
+Atualmente sou Desenvolvedora Full-Stack a procura de uma boa oportunidade de trabalho e estudante na Trybe. Estou no módulo de Ciência da Computação que é o 4º e último módulo da formação.
 Nessa jornada já trilhei os módulos de:
  - Fundamentos
  - Front-End
