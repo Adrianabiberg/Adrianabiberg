@@ -1,4 +1,4 @@
-### Olá, eu sou a Adriana Biberg! 👋
+# Olá, eu sou a Adriana Biberg! 👋
 
 Atualmente sou Desenvolvedora Full-Stack a procura de uma boa oportunidade de trabalho e estudante na Trybe. Estou no módulo de Ciência da Computação que é o 4º e último módulo da formação.
 Nessa jornada já trilhei os módulos de:
@@ -21,6 +21,6 @@ Nessa jornada já trilhei os módulos de:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60px" width="60px"/>          
  
 
-# VAMOS NOS CONECTAR?
+### VAMOS NOS CONECTAR?
 
 <a href="https://www.linkedin.com/in/adrianabiberg" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
